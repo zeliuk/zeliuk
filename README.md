@@ -22,10 +22,10 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - Responsable del ciclo completo: análisis, desarrollo, despliegue y mantenimiento.  
 
 **Proyectos destacados:**  
-- 🟢 **Chatbot Foment del Treball** – Asistente documental en PHP y JavaScript utilizando la API de **OpenAI** y con conocimiento conectado a **Microsoft OneDrive**.  
-- 🟢 **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** con QR dinámico y vCard.  
-- 🟢 **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript + WordPress.  
-- 🟢 **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend desarrollado en **Laravel**.  
+🌟 **Chatbot Foment del Treball** – Asistente documental en PHP y JavaScript utilizando la API de **OpenAI** y con conocimiento conectado a **Microsoft OneDrive**.  
+🌟 **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** con QR dinámico y vCard.  
+🌟 **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript + WordPress.  
+🌟 **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend desarrollado en **Laravel**.  
 
 ---
 
