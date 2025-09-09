@@ -4,6 +4,8 @@
 
 Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura. 
 
+- [LinkedIn](https://linkedin.com/in/carlos-turmo-quilez-b3455639/)
+- Correo: holaturmo@gmail.com
 [🌐 Portfolio web](https://github.com/zeliuk/portfolio-web)
 
 ---
@@ -70,10 +72,3 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - **IA / Data (aplicado en proyectos personales):** LangChain (Python) + OpenAI.  
 - **Herramientas:** Git, MySQL, Docker, Postman, Google Web Designer, Visual Studio Code.  
 - **Idiomas:** Castellano y catalán (nativos), inglés intermedio.  
-
----
-
-## 📫 Contacto
-
-- [LinkedIn](https://linkedin.com/in/carlos-turmo-quilez-b3455639/)
-- Correo: holaturmo@gmail.com
