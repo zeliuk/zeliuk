@@ -23,7 +23,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 
   
 **✨ Proyectos destacados :**  
-- **Chatbot Foment del Treball** – Asistente documental en PHP y JavaScript utilizando la API de **OpenAI** y con conocimiento conectado a **Microsoft OneDrive**.  
+- **Desarrollo de un asistente conversacional con IA para una de las principales organizaciones empresariales de Cataluña** – PHP y JavaScript basado en la API de **OpenAI**, que permite responder consultas en lenguaje natural. El chatbot se conectó a la documentación interna almacenada en **OneDrive**.  
 - **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** con QR dinámico y vCard.  
 - **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript + WordPress.  
 - **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend desarrollado en **Laravel**.  
