@@ -19,7 +19,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - Gestión de servidores web: dominios, DNS, hostings y certificados SSL.  
 - Optimización de **velocidad/rendimiento web y SEO** en múltiples proyectos.  
 - Creación de **banners interactivos en HTML5** para campañas de marketing digital con Google Web Designer.  
-- Responsable del ciclo completo: análisis, desarrollo, despliegue y mantenimiento.  <br>
+- Responsable del ciclo completo: análisis, desarrollo, despliegue y mantenimiento.  <br><br>
 
   
 **✨ Proyectos destacados :**  
