@@ -2,7 +2,9 @@
 
 💻 **Desarrollador Web y Móvil** con más de 12 años de experiencia en el sector digital, especializado en la creación de **webs corporativas, e-commerce y soluciones personalizadas**. Amplia experiencia en **WordPress (temas y plugins a medida)**, **PHP, JavaScript, HTML5 y SCSS**, así como en la integración de APIs externas y servicios de terceros. He gestionado el ciclo completo de proyectos: desde la programación hasta la **gestión de servidores, dominios, DNS, hostings y certificados SSL**, además de la **optimización SEO y de rendimiento web**.  
 
-Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura.  
+Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura. 
+
+[🌐 Portfolio web](https://github.com/zeliuk/portfolio-web)
 
 ---
 
@@ -68,11 +70,6 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - **IA / Data (aplicado en proyectos personales):** LangChain (Python) + OpenAI.  
 - **Herramientas:** Git, MySQL, Docker, Postman, Google Web Designer, Visual Studio Code.  
 - **Idiomas:** Castellano y catalán (nativos), inglés intermedio.  
-
----
-
-## 🌐 Portfolio web
-➡️ Próximamente incluiré un listado con capturas y enlaces de los proyectos web realizados en Helefante y colaboraciones.
 
 ---
 
