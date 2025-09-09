@@ -5,7 +5,7 @@
 Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura. 
 
 [![Email](https://img.shields.io/badge/✉️-holaturmo%40gmail.com-orange?logoColor=white&style=for-the-badge)](mailto:holaturmo@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/carlos-turmo-quilez-b3455639)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/cturmo)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white)](https://github.com/zeliuk/portfolio-web)   
 
 
