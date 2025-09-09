@@ -1,7 +1,8 @@
 # Hola, soy Carlos
 
-💻 **Desarrollador Web y Móvil** con más de 12 años de experiencia.  
-Especializado en **WordPress, PHP y JavaScript**, con proyectos que abarcan desde webs corporativas y e-commerce hasta aplicaciones móviles en **Flutter** con integración de **IA (LangChain + OpenAI)**.  
+💻 **Desarrollador Web y Móvil** con más de 12 años de experiencia en el sector digital, especializado en la creación de **webs corporativas, e-commerce y soluciones personalizadas**. Amplia experiencia en **WordPress (temas y plugins a medida)**, **PHP, JavaScript, HTML5 y SCSS**, así como en la integración de APIs externas y servicios de terceros. He gestionado el ciclo completo de proyectos: desde la programación hasta la **gestión de servidores, dominios, DNS, hostings y certificados SSL**, además de la **optimización SEO y de rendimiento web**.  
+
+Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura.  
 
 ---
 
@@ -16,7 +17,7 @@ Especializado en **WordPress, PHP y JavaScript**, con proyectos que abarcan desd
 - Responsable del ciclo completo: análisis, desarrollo, despliegue y mantenimiento.  
 
 **Proyectos destacados:**  
-- 🟢 **Chatbot Foment del Treball** – Asistente documental en PHP, conectado a **Microsoft OneDrive**.  
+- 🟢 **Chatbot Foment del Treball** – Asistente documental en PHP y JavaScript utilizando la API de **OpenAI** y con conocimiento conectado a **Microsoft OneDrive**.  
 - 🟢 **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** con QR dinámico y vCard.  
 - 🟢 **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript + WordPress.  
 - 🟢 **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend desarrollado en **Laravel**.  
