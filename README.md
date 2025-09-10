@@ -54,7 +54,15 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - **[Marcador de Tenis (Flutter, Google Play Store, WearOS, Widget Android)](https://play.google.com/store/apps/details?id=xyz.zeliuk.apptenis)**  
   App móvil desarrollada en **Flutter** con backend en **Firebase**, análisis avanzado con **Python (LangChain + OpenAI)** y desplegada en **Docker (servidor Render.com)**.  
   - Versión smartwatch en **WearOS**.  
-  - **Widget en Android** para mostrar estadísticas de victorias y días sin jugar.  
+  - **Widget en Android** para mostrar estadísticas de victorias y días sin jugar.
+ 
+- **[Messi Dress-Up (Crossbar.io, WebSockets, Docker, Google Cloud, QR Sync)](http://zeliuk.xyz/messi/)**  
+  Proyecto interactivo en **tiempo real** donde un móvil controla la vestimenta de Messi mostrada en pantalla.  
+  - Sincronización **web ↔ móvil** mediante **QR**.  
+  - Comunicación con **Crossbar.io (WAMP)** usando **Pub/Sub** y **AutobahnJS**.  
+  - Despliegue del router en **Docker** sobre **Google Cloud**.  
+  - Frontend en **HTML, CSS, JavaScript** con renderizado dinámico.  
+
 
 ---
 
