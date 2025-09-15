@@ -17,7 +17,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - **Integraciones:** APIs externas (SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet).
 - **Infraestructura web:** gestión de servidores, dominios, DNS, hostings, certificados SSL.
 - **IA / Data (aplicado en proyectos personales):** LangChain (Python) + OpenAI.  
-- **Herramientas:** Git, MySQL, Docker, Postman, Google Web Designer, Visual Studio Code.  
+- **Herramientas:** Git, MySQL, Docker, Postman, Google Web Designer, Visual Studio Code. Colaboración en proyectos con Adobe Photoshop, Illustrator, XD y Figma.  
 - **Idiomas:** Castellano y catalán (nativos), inglés intermedio.
 
 ---
