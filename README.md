@@ -8,6 +8,24 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/cturmo)&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white)](https://github.com/zeliuk/portfolio-web)   
 
+---
+
+## 🛠️ Stack técnico
+
+- **Frontend:** HTML5, SCSS, JavaScript, Vue.js, Bootstrap, Three.js.  
+- **Backend:** PHP, WordPress (Genesis, plugins a medida), Laravel. 
+- **Integraciones:** APIs externas (SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet).
+- **Infraestructura web:** gestión de servidores, dominios, DNS, hostings, certificados SSL.
+- **IA / Data (aplicado en proyectos personales):** LangChain (Python) + OpenAI.  
+- **Herramientas:** Git, MySQL, Docker, Postman, Google Web Designer, Visual Studio Code.  
+- **Idiomas:** Castellano y catalán (nativos), inglés intermedio.
+
+---
+
+## 🎓 Formación
+
+- **CFGS Desarrollo de Aplicaciones Informáticas** – Escola Tècnica Professional del Clot, Barcelona (2003–2005).  
+- Cursos online de **Laravel, Vue.js, React Native, Flutter, Angular (versión inicial)** y **LangChain (framework en Python para IA generativa)**.  
 
 ---
 
@@ -62,23 +80,3 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
   - Comunicación con **Crossbar.io (WAMP)** usando **Pub/Sub** y **AutobahnJS**.  
   - Despliegue del router en **Docker** sobre **Google Cloud**.  
   - Frontend en **HTML, CSS, JavaScript** con renderizado dinámico.  
-
-
----
-
-## 🎓 Formación
-
-- **CFGS Desarrollo de Aplicaciones Informáticas** – Escola Tècnica Professional del Clot, Barcelona (2003–2005).  
-- Cursos online de **Laravel, Vue.js, React Native, Flutter, Angular (versión inicial)** y **LangChain (framework en Python para IA generativa)**.  
-
----
-
-## 🛠️ Stack técnico
-
-- **Frontend:** HTML5, SCSS, JavaScript, Vue.js, Bootstrap, Three.js.  
-- **Backend:** PHP, WordPress (Genesis, plugins a medida), Laravel. 
-- **Integraciones:** APIs externas (SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet).
-- **Infraestructura web:** gestión de servidores, dominios, DNS, hostings, certificados SSL.
-- **IA / Data (aplicado en proyectos personales):** LangChain (Python) + OpenAI.  
-- **Herramientas:** Git, MySQL, Docker, Postman, Google Web Designer, Visual Studio Code.  
-- **Idiomas:** Castellano y catalán (nativos), inglés intermedio.  
