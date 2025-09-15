@@ -37,7 +37,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - **Desarrollo de un asistente conversacional con IA para una de las principales organizaciones empresariales de Cataluña** – PHP y JavaScript basado en la API de **OpenAI**, que permite responder consultas en lenguaje natural. El chatbot se conectó a la documentación interna almacenada en **Microsoft OneDrive**.  
 - **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** con QR dinámico y vCard.  
 - **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript + WordPress.  
-- **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend desarrollado en **Laravel**.  
+- **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend desarrollado en **Laravel**. Generador de noticias agrupadas en periódicos. El fin es mostrar esos periódicos maquetados en un PDF. 
 
 ---
 
