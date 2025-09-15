@@ -22,13 +22,6 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 
 ---
 
-## 🎓 Formación
-
-- **CFGS Desarrollo de Aplicaciones Informáticas** – Escola Tècnica Professional del Clot, Barcelona (2003–2005).  
-- Cursos online de **Laravel, Vue.js, React Native, Flutter, Angular (versión inicial)** y **LangChain (framework en Python para IA generativa)**.  
-
----
-
 ## 🚀 Experiencia profesional
 
 ### Helefante Diseño y Comunicación (2012–2025) – *Desarrollador Web*
@@ -79,4 +72,11 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
   - Sincronización **web ↔ móvil** mediante **QR**.  
   - Comunicación con **Crossbar.io (WAMP)** usando **Pub/Sub** y **AutobahnJS**.  
   - Despliegue del router en **Docker** sobre **Google Cloud**.  
-  - Frontend en **HTML, CSS, JavaScript** con renderizado dinámico.  
+  - Frontend en **HTML, CSS, JavaScript** con renderizado dinámico.
+ 
+---
+
+## 🎓 Formación
+
+- **CFGS Desarrollo de Aplicaciones Informáticas** – Escola Tècnica Professional del Clot, Barcelona (2003–2005).  
+- Cursos online de **Laravel, Vue.js, React Native, Flutter, Angular (versión inicial)** y **LangChain (framework en Python para IA generativa)**.  
