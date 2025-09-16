@@ -1,6 +1,6 @@
 # Hola, soy Carlos
 
-💻 **Desarrollador Web y Móvil** con más de 12 años de experiencia en el sector digital, especializado en la creación de **webs corporativas, e-commerce y soluciones personalizadas**. Amplia experiencia en **WordPress (temas y plugins a medida)**, **PHP, JavaScript, HTML5 y SCSS**, así como en la integración de APIs externas y servicios de terceros. He gestionado el ciclo completo de proyectos: desde la programación hasta la **gestión de servidores, dominios, DNS, hostings y certificados SSL**, además de la **optimización SEO y de rendimiento web**.  
+💻 **Desarrollador Web y Móvil** con más de 12 años de experiencia en el sector digital, especializado en la creación de **webs corporativas, e-commerce y soluciones personalizadas**. Amplia experiencia en **WordPress (temas y plugins a medida), PHP, JavaScript, HTML5 y SCSS**, con conversión de diseños personalizados desde **Figma, XD e Illustrator** a interfaces web optimizadas, así como en la integración de APIs externas y servicios de terceros. He gestionado el ciclo completo de proyectos: desde la programación hasta la **gestión de servidores, dominios, DNS, hostings y certificados SSL**, además de la **optimización SEO y de rendimiento web**.  
 
 Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura. 
 
@@ -34,31 +34,28 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 
   
 **✨ Proyectos destacados :**  
-- **Desarrollo de un asistente conversacional con IA para una de las principales organizaciones empresariales de Cataluña** – PHP y JavaScript basado en la API de **OpenAI**, que permite responder consultas en lenguaje natural. El chatbot se conectó a la documentación interna almacenada en **Microsoft OneDrive**.  
-- **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** con QR dinámico y vCard.  
+- **Asistente conversacional con IA para una de las principales organizaciones empresariales de Cataluña** – PHP y JavaScript basado en la API de **OpenAI**, que permite responder consultas en lenguaje natural. El chatbot se conectó a la documentación interna almacenada en **Microsoft OneDrive**.  
+- **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** - PKPASS con QR dinámico, vCard y gestión de certificados desde Apple Developer.  
 - **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript + WordPress.  
-- **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend desarrollado en **Laravel**. Generador de noticias agrupadas en periódicos. El fin es mostrar esos periódicos maquetados en un PDF. 
+- **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend en **Laravel** para generación de periódicos en PDF a partir de noticias agrupadas.
 
 ---
 
-### Ajuntament de Barcelona – Institut de Cultura (2010–2011)  
-*Técnico en diseño y programación*  
-- Desarrollo y mantenimiento de aplicaciones internas y proyectos digitales culturales.  
+### Ajuntament de Barcelona – Institut de Cultura (2010–2011) – *Técnico en diseño y programación*  
+Desarrollo y mantenimiento de aplicaciones internas y proyectos digitales culturales.  
 
 ---
 
-### Coritel S.A. (Accenture Supply Chain Services) – Sant Cugat del Vallès (2006–2009)  
-*Programador Senior*  
-- Desarrollo con **XML, XSL, Java y webMethods**.  
-- Soporte y coordinación técnica con el cliente principal (Nestlé).  
+### Coritel S.A. (Accenture Supply Chain Services) – Sant Cugat del Vallès (2006–2009) – *Programador Senior*  
+Desarrollo con **XML, XSL, Java y webMethods**, dando soporte y coordinación técnica con el cliente principal (Nestlé).  
 
 ---
 
-### Cadbury España – El Prat de Llobregat (2005–2006)  
+<!-- ### Cadbury España – El Prat de Llobregat (2005–2006)  
 *HelpDesk (prácticas)*  
 - Soporte técnico y resolución de incidencias de usuarios internos.  
 
----
+--- -->
 
 ## 📱 Proyectos personales
 
