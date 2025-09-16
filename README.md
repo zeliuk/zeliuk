@@ -34,10 +34,10 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 
   
 **✨ Proyectos destacados :**  
-- **Asistente conversacional con IA para una de las principales organizaciones empresariales de Cataluña** – PHP y JavaScript basado en la API de **OpenAI**, que permite responder consultas en lenguaje natural. El chatbot se conectó a la documentación interna almacenada en **Microsoft OneDrive**.  
-- **[Generador de tarjetas Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** - PKPASS con QR dinámico, vCard y gestión de certificados desde Apple Developer.  
-- **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript + WordPress.  
-- **[Selenta Group – Selenta News](https://github.com/zeliuk/selentanews)** – Backend en **Laravel** para generación de periódicos en PDF a partir de noticias agrupadas.
+- **Asistente conversacional con IA** – PHP y JavaScript basado en la API de **OpenAI**, integrado en web para una de las principales organizaciones empresariales de Cataluña. Se conecta a documentación almacenada en **Microsoft OneDrive** para responder consultas en lenguaje natural.  
+- **[Generador de tarjetas digitales para Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** – Sistema en **PHP** que crea tarjetas corporativas con datos de empresa y trabajador, incluyendo **QR dinámico para descargar vCard**.  
+- **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – Aplicación en **JavaScript + WordPress** que permite personalizar visualmente productos en la web del cliente.  
+- **[Selenta News (Laravel)](https://github.com/zeliuk/selentanews)** – Backend que agrupa noticias y genera **periódicos en PDF maquetados automáticamente** para el grupo hotelero Selenta.
 
 ---
 
@@ -59,17 +59,8 @@ Desarrollo con **XML, XSL, Java y webMethods**, dando soporte y coordinación t�
 
 ## 📱 Proyectos personales
 
-- **[Marcador de Tenis (Flutter, Google Play Store, WearOS, Widget Android)](https://play.google.com/store/apps/details?id=xyz.zeliuk.apptenis)**  
-  App móvil desarrollada en **Flutter** con backend en **Firebase**, análisis avanzado con **Python (LangChain + OpenAI)** y desplegada en **Docker (servidor Render.com)**.  
-  - Versión smartwatch en **WearOS**.  
-  - **Widget en Android** para mostrar estadísticas de victorias y días sin jugar.
- 
-- **[Messi Dress-Up (Crossbar.io, WebSockets, Docker, Google Cloud, QR Sync)](http://zeliuk.xyz/messi/)**  
-  Proyecto interactivo en **tiempo real** donde un móvil controla la vestimenta de Messi mostrada en pantalla.  
-  - Sincronización **web ↔ móvil** mediante **QR**.  
-  - Comunicación con **Crossbar.io (WAMP)** usando **Pub/Sub** y **AutobahnJS**.  
-  - Despliegue del router en **Docker** sobre **Google Cloud**.  
-  - Frontend en **HTML, CSS, JavaScript** con renderizado dinámico.
+- **[Marcador de Tenis (Flutter, Google Play Store, WearOS, Widget Android)](https://play.google.com/store/apps/details?id=xyz.zeliuk.apptenis)** - App móvil desarrollada en **Flutter** con backend en **Firebase**. Incluye análisis avanzado del partido con **Python (LangChain + OpenAI)** desplegado en **Docker (servidor Render.com)**, versión smartwatch en **WearOS** y un **widget Android** con estadísticas de victorias y días sin jugar.   
+- **[Messi Dress-Up (Crossbar.io, WebSockets, Docker, Google Cloud, QR Sync)](http://zeliuk.xyz/messi/)** - Proyecto interactivo en **tiempo real** donde un móvil controla la vestimenta de Messi mostrada en pantalla. Comunicación web ↔ móvil mediante **QR** y sincronización con **Crossbar.io (WAMP)** usando Pub/Sub y AutobahnJS.  
  
 ---
 
