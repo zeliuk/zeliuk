@@ -33,7 +33,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 - Responsable del ciclo completo: análisis, desarrollo, despliegue y mantenimiento.  <br><br>
 
   
-**✨ Proyectos destacados :**  
+**✨ Proyectos destacados:**  
 - **Asistente conversacional con IA** – PHP y JavaScript basado en la API de **OpenAI**, integrado en web para una de las principales organizaciones empresariales de Cataluña. Se conecta a documentación almacenada en **Microsoft OneDrive** para responder consultas en lenguaje natural.  
 - **[Generador de tarjetas digitales para Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** – Sistema en **PHP** que crea tarjetas corporativas con datos de empresa y trabajador, incluyendo **QR dinámico para descargar vCard**.  
 - **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – Aplicación en **JavaScript + WordPress** que permite personalizar visualmente productos en la web del cliente.  
