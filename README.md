@@ -66,5 +66,5 @@ Desarrollo con **XML, XSL, Java y webMethods**, dando soporte y coordinación t�
 
 ## 🎓 Formación
 
-- **CFGS Desarrollo de Aplicaciones Informáticas** – Jesuites El Clot (antes Escola Tècnica Professional del Clot), Barcelona (2003–2005).  
+- **CFGS Desarrollo de Aplicaciones Informáticas** – Jesuïtes El Clot (antes Escola Tècnica Professional del Clot), Barcelona (2003–2005).  
 - Cursos online de **Laravel, Vue.js, React Native, Flutter, Angular (versión inicial)** y **LangChain (framework en Python para IA generativa)**.  
