@@ -24,7 +24,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 
 ## 🚀 Experiencia profesional
 
-### Helefante Diseño y Comunicación (2012–2025) – *Desarrollador Web*
+### Helefante Diseño y Comunicación (2012–2025) – *Desarrollador Web Full Stack*
 - Desarrollo integral de más de 30 webs corporativas y e-commerce en **WordPress**, con diseños personalizados y funcionalidades a medida (**portfolio disponible en este [GitHub](https://github.com/zeliuk/portfolio-web)**).  
 - Creación de **plugins a medida** e integraciones externas: **SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet**.
 - Gestión de servidores web: dominios, DNS, hostings y certificados SSL.  
