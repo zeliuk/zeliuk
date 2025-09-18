@@ -6,7 +6,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 
 [![Email](https://img.shields.io/badge/✉️-holaturmo%40gmail.com-orange?logoColor=white&style=for-the-badge)](mailto:holaturmo@gmail.com)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/cturmo)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white)](https://github.com/zeliuk/portfolio-web)   
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white)](https://github.com/zeliuk/portfolio)   
 
 ---
 
@@ -25,7 +25,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 ## 🚀 Experiencia profesional
 
 ### Helefante Diseño y Comunicación (2012–2025) – *Desarrollador Web Full Stack*
-- Desarrollo integral de más de 30 webs corporativas y e-commerce en **WordPress**, con diseños personalizados y funcionalidades a medida (**portfolio disponible en este [GitHub](https://github.com/zeliuk/portfolio-web)**).  
+- Desarrollo integral de más de 30 webs corporativas y e-commerce en **WordPress**, con diseños personalizados y funcionalidades a medida (**portfolio disponible en este [GitHub](https://github.com/zeliuk/portfolio)**).  
 - Creación de **plugins a medida** e integraciones externas: **SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet**.
 - Gestión de servidores web: dominios, DNS, hostings y certificados SSL.  
 - Optimización de **velocidad/rendimiento web y SEO** en múltiples proyectos.  
@@ -36,7 +36,7 @@ Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos 
 **✨ Proyectos destacados:**  
 - **Asistente conversacional con IA** – PHP y JavaScript basado en la API de **OpenAI**, integrado en web para una de las principales organizaciones empresariales de Cataluña. Se conecta a documentación almacenada en **Microsoft OneDrive** para responder consultas en lenguaje natural.  
 - **[Generador de tarjetas digitales para Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** – Sistema en **PHP** que crea tarjetas corporativas con datos de empresa y trabajador, incluyendo **QR dinámico para descargar vCard**.  
-- **[Customizador de productos ffuuss](https://github.com/zeliuk/doityourself-handdryer-customizer)** – Aplicación en **JavaScript + WordPress** que permite personalizar visualmente productos en la web del cliente.  
+- **[Customizador de productos FFUUSS](https://github.com/zeliuk/doityourself-handdryer-customizer)** – Aplicación en **JavaScript + WordPress** que permite personalizar visualmente productos en la web del cliente.  
 - **[Selenta News (Laravel)](https://github.com/zeliuk/selentanews)** – Backend que agrupa noticias y genera **periódicos en PDF maquetados automáticamente** para el grupo hotelero Selenta.
 
 ---
