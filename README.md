@@ -2,11 +2,12 @@
 
 💻 **Desarrollador Web y Móvil** con más de 12 años de experiencia en el sector digital, especializado en la creación de **webs corporativas, e-commerce y soluciones personalizadas**. Amplia experiencia en **WordPress (temas y plugins a medida), PHP, JavaScript, HTML5 y SCSS**, con conversión de diseños personalizados desde **Figma, XD e Illustrator** a interfaces web optimizadas, así como en la integración de APIs externas y servicios de terceros. He gestionado el ciclo completo de proyectos: desde la programación hasta la **gestión de servidores, dominios, DNS, hostings y certificados SSL**, además de la **optimización SEO y de rendimiento web**.  
 
-Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura. 
+Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura.  
 
-[![Email](https://img.shields.io/badge/✉️-holaturmo%40gmail.com-orange?logoColor=white&style=for-the-badge)](mailto:holaturmo@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/cturmo)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white)](https://github.com/zeliuk/portfolio)   
+![Location](https://img.shields.io/badge/🛰️-Barcelona-DD3333?logoColor=white&style=for-the-badge&labelColor=e8e8e8)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/📬-holaturmo%40gmail.com-orange?logoColor=white&style=for-the-badge&labelColor=e8e8e8)](mailto:holaturmo@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=e8e8e8)](https://linkedin.com/in/cturmo)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white&labelColor=e8e8e8)](https://github.com/zeliuk/portfolio)   
 
 ---
 
