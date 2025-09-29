@@ -1,8 +1,10 @@
 # Hola, soy Carlos
 
-💻 **Desarrollador Web y Móvil** con más de 12 años de experiencia en el sector digital, especializado en la creación de **webs corporativas, e-commerce y soluciones personalizadas**. Amplia experiencia en **WordPress (temas y plugins a medida), PHP, JavaScript, HTML5 y SCSS**, con conversión de diseños personalizados desde **Figma, XD e Illustrator** a interfaces web optimizadas, así como en la integración de APIs externas y servicios de terceros. He gestionado el ciclo completo de proyectos: desde la programación hasta la **gestión de servidores, dominios, DNS, hostings y certificados SSL**, además de la **optimización SEO y de rendimiento web**.  
+💻 **Desarrollador Web Full Stack** con más de 12 años de experiencia en el sector digital, especializado en la creación de **sitios corporativos, e-commerce y soluciones personalizadas**. Amplia experiencia en **PHP, JavaScript, HTML5, SCSS y WordPress (temas y plugins a medida)**, con capacidad para convertir **diseños desde Figma, XD e Illustrator** en interfaces web funcionales y personalizadas.
 
-Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con frameworks como **Laravel, Vue.js y Flutter**, y con experiencia aplicada en **IA (LangChain + OpenAI)** a través de proyectos personales. Me considero un perfil versátil, capaz de combinar desarrollo frontend y backend con visión global del producto y experiencia en despliegue e infraestructura.  
+He gestionado el ciclo completo de proyectos: programación, **integración de APIs externas**, gestión de **servidores, dominios, DNS, hostings y certificados SSL**, además de la optimización SEO y de rendimiento web. Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con **Laravel, Vue.js y Flutter**, además de aplicar **soluciones de IA con LangChain (Python) + OpenAI** en proyectos personales.
+
+Me considero un perfil versátil, capaz de combinar **frontend, backend e infraestructura** con visión global del producto y gran capacidad de **adaptación y aprendizaje** en entornos cambiantes.  
 
 ![Location](https://img.shields.io/badge/🛰️-Barcelona-DD3333?logoColor=white&style=for-the-badge&labelColor=e8e8e8)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/📬-holaturmo%40gmail.com-orange?logoColor=white&style=for-the-badge&labelColor=e8e8e8)](mailto:holaturmo@gmail.com)&nbsp;&nbsp;
