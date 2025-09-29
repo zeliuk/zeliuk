@@ -1,3 +1,7 @@
+<p align="right">
+  Léelo en <a href="README.md">Español</a>
+</p>
+
 # Hi, I'm Carlos
 
 💻 **Full Stack Web Developer** with over 12 years of experience in the digital sector, specialized in building **corporate websites, e-commerce platforms, and custom solutions**. Strong expertise in **PHP, JavaScript, HTML5, SCSS, and WordPress (custom themes and plugins)**, with the ability to transform **designs from Figma, XD, and Illustrator** into functional and tailored web interfaces.
