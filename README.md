@@ -72,4 +72,4 @@ Desarrollo con **XML, XSL, Java y webMethods**, dando soporte y coordinación t�
 - **CFGS Desarrollo de Aplicaciones Informáticas** – Jesuïtes El Clot (antes Escola Tècnica Professional del Clot), Barcelona (2003–2005).
 - **Programación de Java y Java Distribuida / Bases de Datos relacionales** - Barcelona Activa (2010).
 - **Diseño web y multimedia** - Grupo Aspasia (2012)
-- Cursos online de **Laravel, Vue.js, React Native, Flutter, Angular (versión inicial)** y **LangChain (framework en Python para IA generativa)**.  
+- Cursos online de **Laravel, Vue.js, React Native, Flutter, Angular (versión inicial)** y **LangChain (Python, IA generativa)**.  
