@@ -1,5 +1,5 @@
 <p align="right">
-  Léelo en <a href="README.md">Español</a>
+  Léelo en <a href="https://github.com/zeliuk/">ESPAÑOL</a>
 </p>
 
 # Hi, I'm Carlos
