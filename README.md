@@ -1,3 +1,7 @@
+<p align="right">
+  Read this in <a href="README.en.md">ENGLISH</a>
+</p>
+
 # Hola, soy Carlos
 
 💻 **Desarrollador Web Full Stack** con más de 12 años de experiencia en el sector digital, especializado en la creación de **sitios corporativos, e-commerce y soluciones personalizadas**. Amplia experiencia en **PHP, JavaScript, HTML5, SCSS y WordPress (temas y plugins a medida)**, con capacidad para convertir **diseños desde Figma, XD e Illustrator** en interfaces web funcionales y personalizadas.
