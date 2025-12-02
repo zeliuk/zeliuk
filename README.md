@@ -6,7 +6,7 @@
 
 💻 **Desarrollador Web Full Stack** con más de 12 años de experiencia en el sector digital, especializado en la creación de **sitios corporativos, e-commerce y soluciones personalizadas**. Amplia experiencia en **PHP, JavaScript, HTML5, SCSS y WordPress (temas y plugins a medida)**, con capacidad para convertir **diseños desde Figma, XD e Illustrator** en interfaces web funcionales y personalizadas.
 
-He gestionado el ciclo completo de proyectos: programación, **integración de APIs externas**, gestión de **servidores, dominios, DNS, hostings y certificados SSL**, además de la optimización SEO y de rendimiento web. Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con **Laravel, Vue.js y Flutter**, además de aplicar **soluciones de IA con LangChain (Python) + OpenAI** en proyectos personales.
+He gestionado el ciclo completo de proyectos: programación, **integración de APIs externas**, gestión de **servidores, dominios, DNS, hostings y certificados SSL**, además de la optimización SEO y de rendimiento web. Me interesa mantenerme en constante aprendizaje y he ampliado mis conocimientos con **Laravel, React.js, Vue.js y Flutter**, además de aplicar **soluciones de IA con LangChain (Python) + OpenAI** en proyectos personales.
 
 Me considero un perfil versátil, capaz de combinar **frontend, backend e infraestructura** con visión global del producto y gran capacidad de **adaptación y aprendizaje** en entornos cambiantes.  
 
@@ -19,7 +19,7 @@ Me considero un perfil versátil, capaz de combinar **frontend, backend e infrae
 
 ## 🛠️ Stack técnico
 
-- **Frontend:** HTML5, SCSS, JavaScript, Vue.js, Bootstrap, Three.js.  
+- **Frontend:** HTML5, SCSS, JavaScript, React.js, Vue.js, Bootstrap, Three.js.  
 - **Backend:** PHP, WordPress (Genesis, plugins a medida), Laravel. 
 - **Integraciones:** APIs externas (SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet).
 - **Infraestructura web:** gestión de servidores, dominios, DNS, hostings, certificados SSL.
