@@ -1,79 +1,94 @@
 <p align="right">
-  Léelo en <a href="https://github.com/zeliuk/">ESPAÑOL</a>
+  Read this in <a href="https://github.com/zeliuk/">SPANISH</a>
 </p>
 
 # Hi, I'm Carlos
 
-💻 **Full Stack Web Developer** with over 12 years of experience in the digital sector, specialized in building **corporate websites, e-commerce platforms, and custom solutions**. Strong expertise in **PHP, JavaScript, HTML5, SCSS, and WordPress (custom themes and plugins)**, with the ability to transform **designs from Figma, XD, and Illustrator** into functional and tailored web interfaces.
+🧩 **Full Stack Developer** with more than 12 years of experience building **applications, digital platforms, e-commerce solutions, and custom software**.
 
-I have managed the full project lifecycle: programming, **external API integrations**, **server, domain, DNS, hosting, and SSL certificate management**, as well as SEO and web performance optimization. Constantly eager to learn, I have expanded my skills with **Laravel, React.js, Vue.js, and Flutter**, and applied **AI-driven solutions with LangChain (Python) + OpenAI** in personal projects.
+Specialized in **PHP, JavaScript, and WordPress**, with experience in frontend and backend development, custom functionality, API integrations, performance optimization, and infrastructure management.
 
-I consider myself a versatile professional, able to combine **frontend, backend, and infrastructure** with a holistic product vision and a strong capacity for **adaptation and continuous learning** in dynamic environments.  
+I also work with **Laravel, React, Vue, Flutter, Python, and FastAPI** to develop applications, APIs, generative AI solutions, and automation.
+
+Versatile, proactive, and adaptable, with experience managing the full project lifecycle: analysis, development, integration, deployment, and maintenance.
 
 ![Location](https://img.shields.io/badge/🛰️-Barcelona-DD3333?logoColor=white&style=for-the-badge&labelColor=e8e8e8)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/📬-holaturmo%40gmail.com-orange?logoColor=white&style=for-the-badge&labelColor=e8e8e8)](mailto:holaturmo@gmail.com)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=e8e8e8)](https://linkedin.com/in/cturmo)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white&labelColor=e8e8e8)](https://github.com/zeliuk/portfolio)   
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logoColor=white&labelColor=e8e8e8)](https://github.com/zeliuk/portfolio)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, SCSS, JavaScript, React.js, Vue.js, Bootstrap, Three.js.  
-- **Backend:** PHP, WordPress (Genesis, custom plugins), Laravel. 
-- **Integrations:** External APIs (SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet).
-- **Web Infrastructure:** server, domain, DNS, hosting, SSL certificate management.
-- **AI / Data (applied in personal projects):** LangChain (Python) + OpenAI.  
-- **Tools:** Git, MySQL, Docker, Postman, Google Web Designer, Visual Studio Code. Collaboration in projects with Adobe Photoshop, Illustrator, XD, and Figma.  
-- **Languages:** Spanish and Catalan (native), English (intermediate).
+- **Frontend:** HTML5, SCSS, JavaScript, React, Vue, Bootstrap, and Three.js.
+- **Backend:** PHP, WordPress, Laravel, Python, and FastAPI.
+- **Databases:** MySQL, SQL, SQLite, and Firebase / Firestore.
+- **Integrations:** External APIs, SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, and Apple Wallet.
+- **Infrastructure:** Docker, servers, domains, DNS, hosting, SSL certificates, and Render.
+- **Applied AI:** Generative AI, LLMs, automation, and API integration.
+- **Applications:** Flutter, Wear OS, and Android widgets.
+- **Tools:** Git, Postman, Visual Studio Code, and Google Web Designer. Collaboration with Photoshop, Illustrator, XD, and Figma.
+- **Languages:** Spanish and Catalan native; English intermediate.
 
 ---
 
 ## 🚀 Professional Experience
 
-### Helefante Diseño y Comunicación (2012–2025) – *Full Stack Web Developer*
-- End-to-end development of more than 30 corporate websites and e-commerce platforms in **WordPress**, with custom designs and tailored functionalities (**portfolio available on this [GitHub](https://github.com/zeliuk/portfolio)**).  
-- Development of **custom plugins** and external integrations: **SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, Apple Wallet**.  
-- Web server management: domains, DNS, hosting, and SSL certificates.  
-- **Website performance optimization and SEO** across multiple projects.  
-- Creation of **interactive HTML5 banners** for digital marketing campaigns using Google Web Designer.  
-- Responsible for the full lifecycle: analysis, development, deployment, and maintenance.  <br><br>
+### Helefante Diseño y Comunicación (2012–2025) – *Full Stack Developer*
 
-**✨ Featured Projects:**  
-- **Conversational AI Assistant** – PHP and JavaScript application based on the **OpenAI API**, integrated into a website for one of Catalonia’s main business organizations. Connected to documentation stored in **Microsoft OneDrive** to provide natural language responses.  
-- **[Apple Wallet Digital Card Generator (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** – **PHP** system generating corporate cards with company and employee data, including a **dynamic QR code to download vCard**.  
-- **[FFUUSS Product Customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)** – **JavaScript + WordPress** application allowing customers to visually customize products on the client’s website.  
-- **[Selenta News (Laravel)](https://github.com/zeliuk/selentanews)** – Backend system aggregating news and generating **automatically formatted PDF newspapers** for the Selenta hotel group.
+- End-to-end development of more than 30 corporate websites and e-commerce platforms in **WordPress**, with custom designs and tailored functionality.
+- Development of **custom plugins** and integrations with **SAP Hybris, HubSpot, Witbooking, Microsoft OneDrive, and Apple Wallet**.
+- Management of servers, domains, DNS, hosting, and SSL certificates.
+- Web performance optimization and SEO.
+- Creation of interactive HTML5 banners with Google Web Designer.
+- Full project lifecycle management: analysis, development, integration, deployment, and maintenance.
 
----
+#### Featured Projects
 
-### Ajuntament de Barcelona – Institut de Cultura (2010–2011) – *Design & Development Technician*  
-Development and maintenance of internal applications and cultural digital projects.  
+- **Conversational AI Assistant** – PHP and JavaScript application built with the OpenAI API and connected to documentation stored in Microsoft OneDrive to answer natural-language queries.
+- **[Apple Wallet Digital Card Generator (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)** – PHP system for generating corporate cards with company and employee data, including dynamic QR codes for downloading contacts in vCard format.
+- **[FFUUSS Product Customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)** – JavaScript and WordPress application that allows users to visually customize products on the client’s website.
+- **[Selenta News](https://github.com/zeliuk/selentanews)** – Laravel backend that collects news and generates automatically formatted PDF newspapers.
 
 ---
 
-### Coritel S.A. (Accenture Supply Chain Services) – Sant Cugat del Vallès (2006–2009) – *Senior Programmer*  
-Development with **XML, XSL, Java, and webMethods**, providing technical support and coordination with the main client (Nestlé).  
+### Ajuntament de Barcelona – Institut de Cultura (2010–2011) – *Design & Development Technician*
+
+Development and maintenance of internal applications and cultural digital projects.
 
 ---
 
-<!-- ### Cadbury España – El Prat de Llobregat (2005–2006)  
-*HelpDesk (internship)*  
-- Technical support and troubleshooting for internal users.  
+### Coritel S.A. · Accenture Supply Chain Services (2006–2009) – *Senior Programmer*
 
---- -->
+Development with **XML, XSL, Java, and webMethods**, providing technical support and coordination with the main client, Nestlé.
 
-## 📱 Personal Projects
+---
 
-- **[Tennis Scoreboard (Flutter, Google Play Store, WearOS, Android Widget)](https://play.google.com/store/apps/details?id=xyz.zeliuk.apptenis)** – Mobile app developed in **Flutter** with **Firebase backend**. Includes advanced match analysis powered by **Python (LangChain + OpenAI)** deployed with **Docker (Render.com server)**, a smartwatch version for **WearOS**, and an **Android widget** displaying win statistics and days since last match.  
-- **[Messi Dress-Up (Crossbar.io, WebSockets, Docker, Google Cloud, QR Sync)](http://zeliuk.xyz/messi/)** – Real-time interactive project where a smartphone controls Messi’s outfit displayed on screen. Web ↔ mobile communication via **QR code** and synchronization with **Crossbar.io (WAMP)** using Pub/Sub and AutobahnJS.  
+## 📱 Projects
+
+### [Tennis Scoreboard](https://play.google.com/store/apps/details?id=xyz.zeliuk.apptenis)
+
+Cross-platform application developed with **Flutter**, with a backend built in **Python and FastAPI**, data persistence using **Firebase / Firestore**, and deployment with **Docker on Render**.
+
+It includes a **Wear OS** version, an Android widget, detailed match statistics, and AI-based features for result analysis.
+
+**Technologies:** Flutter, Dart, Python, FastAPI, Firebase, Firestore, Docker, Render, Wear OS, and Android Widgets.
+
+### [Messi Dress-Up](http://messi.zeliuk.xyz)
+
+Real-time interactive project where a mobile device controls the outfit displayed on screen.
+
+Web-to-mobile communication is handled through a QR code and synchronized with **Crossbar.io**, using WAMP, Pub/Sub, WebSockets, and AutobahnJS.
+
+**Technologies:** HTML, CSS, JavaScript, WebSockets, Crossbar.io, WAMP, Docker, Google Cloud, and QR Sync.
 
 ---
 
 ## 🎓 Education
 
-- **CFGS Desarrollo de Aplicaciones Informáticas** – Jesuïtes El Clot (formerly Escola Tècnica Professional del Clot), Barcelona (2003–2005).  
-*(Spanish Higher Vocational Training – equivalent to a Higher National Diploma in Software Development)*   
-- **Java Programming and Distributed Java / Relational Databases** – Barcelona Activa (2010).  
-- **Web and Multimedia Design** – Grupo Aspasia (2012).  
-- Online courses in **Laravel, Vue.js, React Native, Flutter, Angular (initial version)** and **LangChain (Python, Generative AI)**.  
+- **Advanced Python for Backend Development** – BeJob · IBM SkillsBuild (2026).
+- **Java Programming, Distributed Java, and Relational Databases** – Barcelona Activa (2010).
+- **CFGS Desarrollo de Aplicaciones Informáticas** – Jesuïtes El Clot, Barcelona (2003–2005).  
+  *Computer Application Development.*
+- Additional training in **Laravel, Vue, React Native, Flutter, Angular, and generative AI applied to software development**.
