@@ -75,7 +75,7 @@ Incluye versión para **Wear OS**, widget Android, estadísticas detalladas de p
 
 **Tecnologías:** Flutter, Dart, Python, FastAPI, Firebase, Firestore, Docker, Render, Wear OS y Android Widgets.
 
-### [Messi Dress-Up](http://zeliuk.xyz/messi/)
+### [Messi Dress-Up](http://messi.zeliuk.xyz)
 
 Proyecto interactivo en tiempo real en el que un dispositivo móvil controla la vestimenta mostrada en una pantalla.
 
